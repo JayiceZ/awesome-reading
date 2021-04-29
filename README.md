@@ -13,3 +13,6 @@ In the learning process, I occasionally encounter some exquisite papers or blogs
 ## Distributed
 
  [分布式事务-Google Percolator](https://zhuanlan.zhihu.com/p/53197633).
+ 
+ [终于有人把“TCC分布式事务”实现原理讲明白了]( https://www.cnblogs.com/jajian/p/10014145.html).
+ 
