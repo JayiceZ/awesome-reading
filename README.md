@@ -9,3 +9,7 @@ In the learning process, I occasionally encounter some exquisite papers or blogs
  
  [LSM Tree的Leveling 和 Tiering Compaction](https://zhuanlan.zhihu.com/p/112574579).
 
+
+## Distributed
+
+ [分布式事务-Google Percolator](https://zhuanlan.zhihu.com/p/53197633).
