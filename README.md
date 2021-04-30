@@ -16,3 +16,7 @@ In the learning process, I occasionally encounter some exquisite papers or blogs
  
  [终于有人把“TCC分布式事务”实现原理讲明白了]( https://www.cnblogs.com/jajian/p/10014145.html).
  
+
+## Kernel
+
+ [epoll内核源码详解+自己总结的流程](https://www.nowcoder.com/discuss/26226).
