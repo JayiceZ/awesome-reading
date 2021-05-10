@@ -20,4 +20,3 @@ In the learning process, I occasionally encounter some exquisite papers or blogs
 ## Kernel
 
  [epoll内核源码详解+自己总结的流程](https://www.nowcoder.com/discuss/26226).
-
