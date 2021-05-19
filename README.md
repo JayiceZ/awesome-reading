@@ -21,6 +21,8 @@ In the learning process, I occasionally encounter some exquisite papers or blogs
  
  [LSM Tree的Leveling 和 Tiering Compaction](https://zhuanlan.zhihu.com/p/112574579).
 
+ [Facebook Haystack论文总结](https://zhuanlan.zhihu.com/p/61552881).
+
 
 ## Distributed
 
