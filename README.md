@@ -22,6 +22,9 @@ In the learning process, I occasionally encounter some exquisite papers or blogs
  [LSM Tree的Leveling 和 Tiering Compaction](https://zhuanlan.zhihu.com/p/112574579).
 
  [Facebook Haystack论文总结](https://zhuanlan.zhihu.com/p/61552881).
+ 
+ [深入浅出全面解析RDMA](https://blog.csdn.net/qq_21125183/article/details/80563463).
+
 
 
 ## Distributed
@@ -30,8 +33,20 @@ In the learning process, I occasionally encounter some exquisite papers or blogs
  
  [终于有人把“TCC分布式事务”实现原理讲明白了]( https://www.cnblogs.com/jajian/p/10014145.html).
  
+ 
+ 
 
 ## Kernel
 
  [epoll内核源码详解+自己总结的流程](https://www.nowcoder.com/discuss/26226).
+ 
+ 
+## Java
+
+ [System|JVM|Yak GC](https://zhuanlan.zhihu.com/p/161963173).
+ 
+ [OSDI16 | Yak：Big-Data-Friendly GC](https://zhuanlan.zhihu.com/p/84361982).
+
+
+
 
