@@ -46,6 +46,12 @@ In the learning process, I occasionally encounter some exquisite papers or blogs
  [System|JVM|Yak GC](https://zhuanlan.zhihu.com/p/161963173).
  
  [OSDI16 | Yak：Big-Data-Friendly GC](https://zhuanlan.zhihu.com/p/84361982).
+ 
+
+## OS
+
+ [TLB原理](https://zhuanlan.zhihu.com/p/108425561).
+ 
 
 
 
