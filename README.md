@@ -33,7 +33,7 @@ In the learning process, I occasionally encounter some exquisite papers or blogs
  
  [终于有人把“TCC分布式事务”实现原理讲明白了]( https://www.cnblogs.com/jajian/p/10014145.html).
  
- 
+ [Lamport 逻辑时钟（Lamport Timestamp）和 Vector Clock 简单理解]( https://www.inlighting.org/archives/lamport-timestamp-vector-clock/).
  
 
 ## Kernel
