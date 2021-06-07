@@ -39,6 +39,8 @@ In the learning process, I occasionally encounter some exquisite papers or blogs
 ## Kernel
 
  [epoll内核源码详解+自己总结的流程](https://www.nowcoder.com/discuss/26226).
+
+ [分段与分页，LDT与GDT](https://blog.csdn.net/yleek/article/details/8204393).
  
  
 ## Java
