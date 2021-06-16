@@ -49,7 +49,8 @@ In the learning process, I occasionally encounter some exquisite papers or blogs
  
  [OSDI16 | Yak：Big-Data-Friendly GC](https://zhuanlan.zhihu.com/p/84361982).
  
-
+ [G1垃圾收集器](https://www.jianshu.com/p/107030c48f64).
+ 
 ## OS
 
  [TLB原理](https://zhuanlan.zhihu.com/p/108425561).
