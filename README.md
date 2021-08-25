@@ -43,6 +43,8 @@ In the learning process, I occasionally encounter some exquisite papers or blogs
 
  [分段与分页，LDT与GDT](https://blog.csdn.net/yleek/article/details/8204393).
  
+ [TLB原理](https://zhuanlan.zhihu.com/p/108425561).
+ 
  
 ## Java
 
@@ -54,10 +56,7 @@ In the learning process, I occasionally encounter some exquisite papers or blogs
  
 ## C++
  [libco源码详解](https://max.book118.com/html/2017/0924/134893247.shtm).
- 
-## OS
 
- [TLB原理](https://zhuanlan.zhihu.com/p/108425561).
- 
+
 
 
