@@ -2,7 +2,6 @@
 
 ### OLAP
 -  [ClickHouse 源码阅读 —— SQL的前世今生](https://zhuanlan.zhihu.com/p/181283645?utm_source=wechat_session&utm_medium=social&utm_oi=1012352443086028800).
--  [ClickHouse 源码阅读 —— SQL的前世今生](https://zhuanlan.zhihu.com/p/181283645?utm_source=wechat_session&utm_medium=social&utm_oi=1012352443086028800).
 
 
 ### Local Storage Engine
