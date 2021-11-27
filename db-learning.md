@@ -6,7 +6,7 @@ refer to https://www.zhihu.com/question/451898647/answer/1813178673
    - [ ]  Concurrency_The_Works_of_Leslie_Lamport.pdf
    - [ ] CONSENSUS: BRIDGING THEORY AND PRACTICE.pdf
    - [ ]  Deep Dive: Replication.pdf
-   - [ ] Fast Paxos.pdf
+   - [x] Fast Paxos.pdf
    - [ ] Fault-Tolerance for Distributed Iterative Dataﬂows in Action.pdf
    - [ ] Generalized Consensus and Paxos.pdf
    - [ ]  HT-Paxos High Throughput State-Machine Replication.pdf
