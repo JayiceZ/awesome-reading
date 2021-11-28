@@ -140,6 +140,7 @@ refer to https://www.zhihu.com/question/451898647/answer/1813178673
     11. [ ]  Memory Model.pd
     12. [ ]  MK.The.Art.of.Multiprocessor.Programming.Revised.Reprint.May.pdf
     13. [ ]  Practical lock-freedom.pdf
-         Quiescent Consistency Defining and Verifying Relaxed Linearizability.pdf
-    14. [ ]  rcu-110828093958-phpapp02.pdf
-    15. [ ] Shared Memory Consistency Models: A Tutorial \003.pdf
+    14. [ ]  Quiescent Consistency Defining and Verifying Relaxed Linearizability.pdf
+    15. [ ]  rcu-110828093958-phpapp02.pdf
+    16. [ ] Shared Memory Consistency Models: A Tutorial \003.pdf
+    17. [ ] Hazard Pointers: Safe Memory Reclamation for Lock-Free Objects
