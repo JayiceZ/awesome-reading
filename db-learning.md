@@ -110,7 +110,7 @@ refer to https://www.zhihu.com/question/451898647/answer/1813178673
    2. [ ]  Concurrency Control in Distributed Database Systems.pdf
    3. [ ]  David.ppt
    4. [ ] Expert SQL Server Transactions and Locking.pdf
-   5. [ ] Granularity  of   locks and degrees of consistency in a shared database.pdf
+   5. [ ] Granularity of locks and degrees of consistency in a shared database.pdf
    6. [ ] Granularity.pdf
    7. [ ] Granularity.ppt
    8. [ ]  High-Performance Concurrency Control Mechanisms for Main-Memory Databases.pdf
