@@ -6,6 +6,8 @@
 
 ### Local Storage Engine
 -  [RocksDB有哪些好的文章和资料](https://www.zhihu.com/question/270732348/answer/356254676?utm_source=wechat_session&utm_medium=social&utm_oi=1012352443086028800&utm_content=group3_Answer&utm_campaign=shareopn).
+-  [TerarkDB doc](https://bytedance.feishu.cn/docs/doccnZmYFqHBm06BbvYgjsHHcKc).
+
 
 
 ### Distributed Storage
