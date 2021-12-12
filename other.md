@@ -52,3 +52,6 @@
  
 ## C++
  [libco源码详解](https://max.book118.com/html/2017/0924/134893247.shtm).
+ 
+ [C++ Concurrency In Action](https://www.bookstack.cn/read/Cpp_Concurrency_In_Action/README.md).
+
