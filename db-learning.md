@@ -11,7 +11,7 @@ refer to https://www.zhihu.com/question/451898647/answer/1813178673
    - [ ] Generalized Consensus and Paxos.pdf
    - [ ]  HT-Paxos High Throughput State-Machine Replication.pdf
    - [x] In Search of an Understandable Consensus Algorithm (Extended Version).pdf                       
-   - [ ]  ~~lamport-paxos.pdf~~
+   - [ ]  ~~lamport-paxos.pdf~~     `too hard to understand :-)`
    - [ ] Linearizability - A Correctness Condition for Concurrent Objects.pdf
    - [ ]  MySQL Replication Tutorial.pdf
    - [ ] Ouroboros A Provably Secure Proof-of-Stake Blockchain Protocol.pdf
