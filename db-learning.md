@@ -1,23 +1,20 @@
 refer to https://www.zhihu.com/question/451898647/answer/1813178673
 
 1. consensus&replication
-   - [ ] An API for Reading the MySQL Binary Log.pdf                                 
-   - [ ] berkeleydb-je-ha-whitepaper-132079.pdf
-   - [ ]  Concurrency_The_Works_of_Leslie_Lamport.pdf
+   - [ ] Concurrency_The_Works_of_Leslie_Lamport.pdf
    - [ ] CONSENSUS: BRIDGING THEORY AND PRACTICE.pdf
-   - [ ]  Deep Dive: Replication.pdf
+   - [ ] ~~Deep Dive: Replication.pdf~~   Not Found
    - [x] Fast Paxos.pdf
    - [ ] Fault-Tolerance for Distributed Iterative Dataﬂows in Action.pdf
    - [ ] Generalized Consensus and Paxos.pdf
    - [ ]  HT-Paxos High Throughput State-Machine Replication.pdf
    - [x] In Search of an Understandable Consensus Algorithm (Extended Version).pdf                       
    - [ ]  ~~lamport-paxos.pdf~~     `too hard to understand :-)`
-   - [ ] Linearizability - A Correctness Condition for Concurrent Objects.pdf
-   - [ ]  MySQL Replication Tutorial.pdf
+   - [ ] MySQL Replication Tutorial.pdf
    - [ ] Ouroboros A Provably Secure Proof-of-Stake Blockchain Protocol.pdf
    - [ ] PacificA.pdf
-   - [ ] Paxos_is_easy_but_building_a_replicated_state_machine_is_not_李响.pdf
-   - [ ] paxos made live.pdf
+   - [ ] ~~Paxos_is_easy_but_building_a_replicated_state_machine_is_not_李响.pdf~~   Not Found
+   - [x] paxos made live.pdf
    - [x] paxos-simple.pdf                                                                                
    - [ ] Phd thesis practical byzantine fault tolerance.pdf
    - [ ] Practical Byzantine Fault Tolerance.pdf
@@ -143,3 +140,4 @@ refer to https://www.zhihu.com/question/451898647/answer/1813178673
     14. [ ]  rcu-110828093958-phpapp02.pdf
     15. [ ] Shared Memory Consistency Models: A Tutorial \003.pdf
     16. [ ] Hazard Pointers: Safe Memory Reclamation for Lock-Free Objects
+    17. [ ] Linearizability - A Correctness Condition for Concurrent Objects.pdf
