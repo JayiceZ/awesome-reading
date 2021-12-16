@@ -24,7 +24,7 @@
 
 
 
-## Distributed
+## Transaction
 
  [分布式事务-Google Percolator](https://zhuanlan.zhihu.com/p/53197633).
  
@@ -54,4 +54,10 @@
  [libco源码详解](https://max.book118.com/html/2017/0924/134893247.shtm).
  
  [C++ Concurrency In Action](https://www.bookstack.cn/read/Cpp_Concurrency_In_Action/README.md).
+ 
+ 
+## Consensus
+
+ [Raft算法原理](https://www.codedump.info/post/20180921-raft/).
+ [etcd-raft解析](https://www.codedump.info/post/20180922-etcd-raft/).
 
