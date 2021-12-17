@@ -59,5 +59,6 @@
 ## Consensus
 
  [Raft算法原理](https://www.codedump.info/post/20180921-raft/).
+ 
  [etcd-raft解析](https://www.codedump.info/post/20180922-etcd-raft/).
 
