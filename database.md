@@ -19,4 +19,7 @@
 # 事务
 - [CockroachDB的Follower Read](https://www.scienjus.com/an-epic-read-on-follower-reads/)
 - [CockroadchDB和TiDB如何避免幻读](https://www.zenlife.tk/two-tso-or-one-tso.md)
-- 
+
+
+# Time
+- [5种分布式时钟](http://yang.observer/2020/12/16/hlc/)
