@@ -14,3 +14,9 @@
 -  [分布式存储的七个方面问题](https://zhuanlan.zhihu.com/p/369581725?utm_source=wechat_session&utm_medium=social&utm_oi=1012352443086028800).
 -  [八股文之DPDK](https://zhuanlan.zhihu.com/p/387069915?utm_source=wechat_session&utm_medium=social&utm_oi=1012352443086028800).
 
+
+
+# 事务
+- [CockroachDB的Follower Read](https://www.scienjus.com/an-epic-read-on-follower-reads/)
+- [CockroadchDB和TiDB如何避免幻读](https://www.zenlife.tk/two-tso-or-one-tso.md)
+- 
