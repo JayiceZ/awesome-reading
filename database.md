@@ -18,7 +18,8 @@
 
 # 事务
 - [CockroachDB的Follower Read](https://www.scienjus.com/an-epic-read-on-follower-reads/)
-- [CockroadchDB和TiDB如何避免幻读](https://www.zenlife.tk/two-tso-or-one-tso.md)
+- [CockroachDB和TiDB如何避免幻读](https://www.zenlife.tk/two-tso-or-one-tso.md)
+- [CockroachDB事务剖析](https://zhuanlan.zhihu.com/p/571445272)
 ## Parallel Commit
 - [TiDB parallel commit详解](https://nan01ab.github.io/2021/06/Distributed-Txn(4).html)
 - [TiDB parallel commit设计文档](https://github.com/tikv/sig-transaction/blob/master/design/async-commit/parallel-commit-known-issues-and-solutions.md)
