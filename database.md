@@ -25,5 +25,8 @@
 - [TiDB parallel commit设计文档](https://github.com/tikv/sig-transaction/blob/master/design/async-commit/parallel-commit-known-issues-and-solutions.md)
 - [TiDB parallel commit设计讨论](https://docs.google.com/document/d/1-yn5zyn8NpqXRii9sA5wDcNHL3L0BYVaEFyD-YChX1g/edit#heading=h.4qyuf3giaj3x)
 
+## 隔离级别
+- [数据库事务隔离标准](https://zhuanlan.zhihu.com/p/38214642)
+
 # Time
 - [5种分布式时钟](http://yang.observer/2020/12/16/hlc/)
