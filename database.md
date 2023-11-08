@@ -29,5 +29,9 @@
 - [数据库事务隔离标准](https://zhuanlan.zhihu.com/p/38214642)
 - [一致性模型](https://jepsen.io/consistency)
 
+## CC
+- [并发控制协议: 2PL / TS / OCC](https://zhuanlan.zhihu.com/p/294657612)
+- [MVCC & SI: Protocol](https://zhuanlan.zhihu.com/p/298576970)
+
 # Time
 - [5种分布式时钟](http://yang.observer/2020/12/16/hlc/)
