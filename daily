@@ -21,7 +21,7 @@ Snapshot Isolation解决幻读，所以隔离级别高于Read Committed
 how？
 《Making Snapshot Isolation Serializable》记录了SI出现Write Skew的必要条件：事务之间存在rw依赖并成环.
 
-所以关键点就是检测到这个环，出现的时候abort这个事务。《Serializable Isolation for Snapshot Databases》记录了这个处理方法。
+所以关键点就是检测到这个环（必要不充分跟），出现的时候abort这个事务（会误杀）。《Serializable Isolation for Snapshot Databases》记录了这个处理方法。
 
 
 todo：
