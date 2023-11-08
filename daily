@@ -1,0 +1,25 @@
+## 2023.11.08
+并发控制：
+
+https://marsishandsome.github.io/2019/06/Multi_Version_Concurrency_Control
+- 悲观：2PL
+- 乐观：timestamp based 因为乐观并发的流程为：先write in private space再validation然后commit。而validation是base on timestamp的。
+   - Basic T/O：原地修改，会有Dirty Write的问题
+   - OCC：Copy then modify。 内存占用大，无法应对大数据集
+
+以上都是单版本的实现。结合MVCC，分别就是MV2PL、MVOCC、MVTO
+
+事务：
+A Critical of database isolation 重新定义了P0123，提出Snapshot Isolation和读写偏斜问题。
+
+Snapshot Isolation解决幻读，所以隔离级别高于Read Committed
+但无法和Repeatable Read比较。因为后者无法解决幻读，但基于锁的实现方式可以避免Write Skew，SI无法避免Write Skew
+
+因为SI无法避免Write Skew，所以其并不是Serializable。
+
+所以又有了serializable snapshot isolation，在base SI下解决Write Skew问题。
+how？
+本质就是
+
+
+## 2023.11
