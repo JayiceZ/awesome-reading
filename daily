@@ -17,9 +17,14 @@ Snapshot Isolation解决幻读，所以隔离级别高于Read Committed
 
 因为SI无法避免Write Skew，所以其并不是Serializable。
 
-所以又有了serializable snapshot isolation，在base SI下解决Write Skew问题。
+所以又有了serializable snapshot isolation和write snapshot isolation ，在base SI下解决Write Skew(r1x r2y w1y w2x)问题。
 how？
-本质就是
+《Making Snapshot Isolation Serializable》记录了SI出现Write Skew的必要条件：事务之间存在rw依赖并成环.
+
+所以关键点就是检测到这个环，出现的时候abort这个事务。《Serializable Isolation for Snapshot Databases》记录了这个处理方法。
 
 
+todo：
+- Making Snapshot Isolation Serializable
+- Serializable Isolation for Snapshot Databases
 ## 2023.11
