@@ -38,6 +38,7 @@ for Main-Memory Database Systems](https://db.in.tum.de/~muehlbau/papers/mvcc.pdf
   - [概述2](https://zhuanlan.zhihu.com/p/417271938)
 - [Yingjun Wu的MVCC论文](https://www.vldb.org/pvldb/vol10/p781-Wu.pdf)
   - [MrCroxx大佬的翻译](https://blog.mrcroxx.com/posts/paper-reading/wu-vldb2017/)
+- [MySQL undolog、MVCC](https://www.alibabacloud.com/blog/598966)
 
 
 # 3. Time
