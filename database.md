@@ -55,7 +55,7 @@ for Main-Memory Database Systems](https://db.in.tum.de/~muehlbau/papers/mvcc.pdf
 -  [八股文之DPDK](https://zhuanlan.zhihu.com/p/387069915?utm_source=wechat_session&utm_medium=social&utm_oi=1012352443086028800).
 
 # 5. Distributed Application
-- [DynamoDB]()
+- [Dynamo]()
   - [中文翻译](http://arthurchiao.art/blog/amazon-dynamo-zh/)
 
 # 6. OLAP
