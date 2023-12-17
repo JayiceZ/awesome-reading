@@ -39,6 +39,7 @@ for Main-Memory Database Systems](https://db.in.tum.de/~muehlbau/papers/mvcc.pdf
 - [Yingjun Wu的MVCC论文](https://www.vldb.org/pvldb/vol10/p781-Wu.pdf)
   - [MrCroxx大佬的翻译](https://blog.mrcroxx.com/posts/paper-reading/wu-vldb2017/)
 - [MySQL undolog、MVCC](https://www.alibabacloud.com/blog/598966)
+- [OCC](https://wangziqi2013.github.io/article/2018/03/21/Analyzing-OCC-Anomalies-and-Solutions.html)
 
 
 # 3. Time
