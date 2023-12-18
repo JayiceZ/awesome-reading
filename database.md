@@ -26,7 +26,7 @@ for Main-Memory Database Systems](https://db.in.tum.de/~muehlbau/papers/mvcc.pdf
   - [TiDB parallel commit详解](https://nan01ab.github.io/2021/06/Distributed-Txn(4).html)
   - [TiDB parallel commit设计文档](https://github.com/tikv/sig-transaction/blob/master/design/async-commit/parallel-commit-known-issues-and-solutions.md)
   - [TiDB parallel commit设计讨论](https://docs.google.com/document/d/1-yn5zyn8NpqXRii9sA5wDcNHL3L0BYVaEFyD-YChX1g/edit#heading=h.4qyuf3giaj3x)
-- []
+- [percolator垃圾收集](https://blog.csdn.net/maxlovezyy/article/details/99707690)
 
 
 # 2.Concurrency Control
