@@ -17,7 +17,8 @@ transactions in the cloud](http://www.nawab.me/Uploads/MaaT_VLDB2014.pdf)
 - [An Evaluation of the Advantages and Disadvantages of Deterministic Database Systems](http://www.vldb.org/pvldb/vol7/p821-ren.pdf)
 - [Fast Serializable Multi-Version Concurrency Control
 for Main-Memory Database Systems](https://db.in.tum.de/~muehlbau/papers/mvcc.pdf)
-- 
+- [Aries]
+  - [掘金上的解析，不错](https://juejin.cn/post/7250396163240755261)
 ## 1.2 实现优化
 - [CockroachDB的Follower Read](https://www.scienjus.com/an-epic-read-on-follower-reads/)
 - [CockroachDB和TiDB如何避免幻读](https://www.zenlife.tk/two-tso-or-one-tso.md)
