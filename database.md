@@ -47,7 +47,7 @@ for Main-Memory Database Systems](https://db.in.tum.de/~muehlbau/papers/mvcc.pdf
 - [5种分布式时钟](http://yang.observer/2020/12/16/hlc/)
 - [阿莱克西斯大佬对TrueTime和commit-wait的解释](https://zhuanlan.zhihu.com/p/44254954)
 - [TiDB的分布式TSO优化 解决跨AZ PD性能渣的问题](https://cn.pingcap.com/blog/preliminary-study-on-cross-center-deployment-capability-of-tidb5.0/)
-
+- [Eric Fu写的分布式时钟](https://ericfu.me/timestamp-in-distributed-trans/)
 
 
 # 4. Storage Engine
